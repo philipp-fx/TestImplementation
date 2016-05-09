@@ -20,6 +20,7 @@ namespace TestImplementation
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Hello Test Implementation");
+            //Comment 1 WorkPC 09.05.2016 15:27h
         }
     }
 }
